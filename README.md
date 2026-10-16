@@ -10,8 +10,11 @@ This project transforms traditional academic transcripts into an immersive visua
 *(Add your high-resolution dashboard screenshots here! Take screenshots of your pages and drag-and-drop them into this section or link them)*
 
 - **Page 1:** Dashboard Overview & Core Metrics
+  <img width="3075" height="1763" alt="Statistik IPK_page-0001" src="https://github.com/user-attachments/assets/eb6b9dbd-d10f-4d13-9b3e-f9864ca91cb8" />
 - **Page 2:** Detailed Course List & Transcript
+  <img width="3075" height="1763" alt="Statistik IPK_page-0002" src="https://github.com/user-attachments/assets/c051f450-928c-4648-a4fc-c3b6134628a1" />
 - **Page 3:** Advanced Analytics (Grade Distribution, Category GPA, and Semester GPA Trends)
+  <img width="1202" height="677" alt="image" src="https://github.com/user-attachments/assets/30883303-f0d7-44d4-8b2a-748990a4ac89" />
 
 ---
 
